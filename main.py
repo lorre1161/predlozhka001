@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # Настройки бота
 TOKEN = '7754710395:AAGQbOYfDHpdNEEHlFUCQZy806aVKIPSHGY'
-CHANNEL_ID = '@TEST_PREDLOZHKA'
+CHANNEL_ID = '@market_nft_prm'
 MODERATOR_CHAT_ID = '@moderation_predlozhka1'  # Чат модераторов
 SUPER_ADMINS = {541867942, 7774253158}  # Суперадмины по Telegram ID
 MODERATORS = {}  # {user_id: username}
